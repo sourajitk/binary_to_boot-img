@@ -3,4 +3,4 @@
 	url = https://android.googlesource.com/platform/system/tools/mkbootimg/
 [submodule "boot-files"]
 	path = boot-files
-	url = https://github.com/bdashore3/google-boot-files
+	url = https://github.com/sourajitk/boot-files

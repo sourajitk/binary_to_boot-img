@@ -3,3 +3,4 @@ boot-files/*
 source.zip
 zip/
 mkbootimg/*
+mkbootimg_out/*
